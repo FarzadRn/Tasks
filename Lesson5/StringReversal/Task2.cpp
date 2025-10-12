@@ -6,7 +6,7 @@ int main()
 {
 	std::string inputText;
 	std::string outputText;
-	std::cout << "say something and I will reverse it for you :P :  " << '\n';
+	std::cout << "say something and I will reverse it for you:  " << '\n';
 
 	std::getline(std::cin, inputText);
 	int addressIndex = 0;
