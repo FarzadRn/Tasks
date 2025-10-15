@@ -205,7 +205,7 @@ static void drawPathOnGrid(MazeGrid& grid,
 int main() {
     // 1) Load maze
     MazeGrid grid;
-    if (!loadMaze("Maze.txt", grid)) {
+    if (!loadMaze("Maze2.txt", grid)) {
         std::cerr << "Failed to open Maze.txt or file is empty.\n";
         return 1;
     }
