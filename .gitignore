@@ -400,3 +400,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /MentorChallenges
+/Lesson1
+/Lesson2
+/Lesson3
