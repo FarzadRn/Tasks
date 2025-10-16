@@ -6,14 +6,22 @@ struct enemy
 	int health = 0;
 };
 
+struct card
+{
+	int size = 13;
+	std::string suit = "";
+};
+
+card deck[4];
+
 enemy* createEnemy(std::string& name, int health)
 {
 	enemy* boss = new enemy();
 	boss->name = name;
 	boss->health = health;
 	return boss;
-
 }
+
 void func(enemy* ref)
 {
 	std::cout << '\n' << "hi" << '\n';
@@ -63,7 +71,7 @@ int main()
 	//
 
 	std::cout << "//" << '\n';
-	int N=2;
+	int N = 2;
 	int& ref = N;
 	std::cout << ref << '\n';
 	std::cout << "//" << '\n';
