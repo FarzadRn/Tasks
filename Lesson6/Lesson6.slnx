@@ -6,6 +6,7 @@
   <Project Path="Lesson6.vcxproj" Id="6f352493-f27f-4968-a03b-fdd949be45fc" />
   <Project Path="PassingStructs/PassingStructs.vcxproj" Id="36248531-d7cb-4861-8dfd-5559004438ae" />
   <Project Path="StackVsHeap/StackVsHeap.vcxproj" Id="51919b59-3d20-4ca8-bb7c-88c44f031c8a" />
+  <Project Path="StructAndDynamicMem/StructAndDynamicMem.vcxproj" Id="76edad3f-775a-4adf-a0ff-19c1ed19d1ff" />
   <Project Path="StructAndHeap/StructAndHeap.vcxproj" Id="42c20474-e1e7-422f-9231-982c51244b2f" />
   <Project Path="UnderstandingStructs/UnderstandingStructs.vcxproj" Id="c9539e9e-8d6d-418b-989d-187aea1f5528" />
 </Solution>
