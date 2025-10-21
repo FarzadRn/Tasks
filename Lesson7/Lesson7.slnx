@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BasicClass,Object/BasicClass,Object.vcxproj" Id="013f25a0-0ae0-4012-8dda-072fd72d3945" />
+  <Project Path="Con,Des,Member/Con,Des,Member.vcxproj" Id="a39e9387-b1de-4318-9aca-b4b5f65b087c" />
+  <Project Path="Encapsulation/Encapsulation.vcxproj" Id="29bb5049-5a61-461f-9deb-b6a2c699c8a0" />
+  <Project Path="GameObjectSystem/GameObjectSystem.vcxproj" Id="52580fce-d680-4ccf-8165-01585bf3c255" />
+  <Project Path="Testing/Testing.vcxproj" Id="5a8bb42a-a27b-4d45-a37c-d03d1c0a84ff" />
+  <Project Path="testingStackOverFlowThings/testingStackOverFlowThings.vcxproj" Id="d18d358c-2a86-4842-b2b1-88462b0f56ac" />
+</Solution>
