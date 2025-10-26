@@ -11,12 +11,12 @@ struct person
 
 person* factory(const std::string& name, int age, int height)
 {
-	person* man = new person;
-	man->name = name;
-	man->age = age;
-	man->height = height;
-	man->pointer[200] = 5;
-	return man;
+	person* pPtr = new person;
+	pPtr->name = name;
+	pPtr->age = age;
+	pPtr->height = height;
+	pPtr->pointer[200] = 5;
+	return pPtr;
 }
 
 int main()

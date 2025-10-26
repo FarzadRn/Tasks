@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AbstractClasses/AbstractClasses.vcxproj" Id="13ba6bd7-1e41-4cc3-a8c9-b05d412b1396" />
+  <Project Path="Inheritence/Inheritence.vcxproj" Id="1af29485-6ea4-4518-86ae-3f2e04311120" />
+  <Project Path="Multi_inherit_virtInherit/Multi_inherit_virtInherit.vcxproj" Id="4c228e87-f45c-4deb-bb9d-8ca0b2ec1505" />
+  <Project Path="Task2/Task2.vcxproj" Id="a575d255-1eea-435c-864f-1d9875a265e5" />
+</Solution>
